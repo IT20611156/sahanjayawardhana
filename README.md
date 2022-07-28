@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sahan..
-- 👀 I’m interested in about coding.
-- 🌱 I’m currently learning IT as a student.
+- 👀 I’m curious to learn something new about coding.
+- 🌱 I’m learning programming as a beginner.
